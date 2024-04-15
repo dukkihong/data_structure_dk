@@ -1,0 +1,9 @@
+﻿  InsertLinkedList.c
+C:\Users\hdk67\source\repos\ex4_1\ex4_1\InsertLinkedList.c(7,21): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\hdk67\source\repos\ex4_1\ex4_1\InsertLinkedList.c(7,49): warning C4312: '형식 캐스트': 'int'에서 더 큰 'linkedList_h *'(으)로의 변환입니다.
+C:\Users\hdk67\source\repos\ex4_1\ex4_1\InsertLinkedList.c(18,3): warning C4013: 'free'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\hdk67\source\repos\ex4_1\ex4_1\InsertLinkedList.c(26,2): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\hdk67\source\repos\ex4_1\ex4_1\InsertLinkedList.c(39,47): warning C4312: '형식 캐스트': 'int'에서 더 큰 'listNode *'(으)로의 변환입니다.
+C:\Users\hdk67\source\repos\ex4_1\ex4_1\InsertLinkedList.c(48,47): warning C4312: '형식 캐스트': 'int'에서 더 큰 'listNode *'(으)로의 변환입니다.
+C:\Users\hdk67\source\repos\ex4_1\ex4_1\InsertLinkedList.c(68,47): warning C4312: '형식 캐스트': 'int'에서 더 큰 'listNode *'(으)로의 변환입니다.
+  ex4_1.vcxproj -> C:\Users\hdk67\source\repos\ex4_1\x64\Debug\ex4_1.exe
