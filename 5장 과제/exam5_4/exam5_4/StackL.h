@@ -1,0 +1,14 @@
+#pragma once
+typedef char element;
+typedef struct {
+	element data;
+	struct stackNode* link;
+}stackNode;
+
+stackNode* top;
+
+int isStackEmpty();
+void push(element item);
+element pop();
+element peek();
+void printStack();
