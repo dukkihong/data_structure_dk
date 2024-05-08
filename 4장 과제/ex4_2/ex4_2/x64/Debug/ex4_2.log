@@ -1,0 +1,5 @@
+﻿  ex4_2.c
+  LinkedList.c
+  코드를 생성하고 있습니다...
+C:\Users\hdk67\source\repos\ex4_2\ex4_2\LinkedList.c(27,2): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  ex4_2.vcxproj -> C:\Users\hdk67\source\repos\ex4_2\x64\Debug\ex4_2.exe
