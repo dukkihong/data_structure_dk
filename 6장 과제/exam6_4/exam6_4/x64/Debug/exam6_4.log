@@ -1,0 +1,10 @@
+﻿  DeQue.c
+C:\Users\hdk67\source\repos\exam6_4\exam6_4\DeQue.c(57,3): warning C4033: 'deleteFront'은(는) 값을 반환해야 합니다.
+C:\Users\hdk67\source\repos\exam6_4\exam6_4\DeQue.c(79,3): warning C4033: 'deleteRear'은(는) 값을 반환해야 합니다.
+C:\Users\hdk67\source\repos\exam6_4\exam6_4\DeQue.c(100,3): warning C4033: 'peekFront'은(는) 값을 반환해야 합니다.
+C:\Users\hdk67\source\repos\exam6_4\exam6_4\DeQue.c(112,3): warning C4033: 'peekRear'은(는) 값을 반환해야 합니다.
+C:\Users\hdk67\source\repos\exam6_4\exam6_4\DeQue.c(94,1): warning C4715: 'deleteRear': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\hdk67\source\repos\exam6_4\exam6_4\DeQue.c(118,1): warning C4715: 'peekRear': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\hdk67\source\repos\exam6_4\exam6_4\DeQue.c(72,1): warning C4715: 'deleteFront': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\hdk67\source\repos\exam6_4\exam6_4\DeQue.c(106,1): warning C4715: 'peekFront': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  exam6_4.vcxproj -> C:\Users\hdk67\source\repos\exam6_4\x64\Debug\exam6_4.exe
