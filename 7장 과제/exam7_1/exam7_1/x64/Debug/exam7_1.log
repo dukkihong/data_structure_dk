@@ -1,0 +1,6 @@
+﻿  exam7_1.c
+C:\Users\hdk67\source\repos\exam7_1\exam7_1\exam7_1.c(13,2): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\hdk67\source\repos\exam7_1\exam7_1\exam7_1.c(22,2): warning C4013: 'getchar'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  traversalBT.c
+  코드를 생성하고 있습니다...
+  exam7_1.vcxproj -> C:\Users\hdk67\source\repos\exam7_1\x64\Debug\exam7_1.exe
